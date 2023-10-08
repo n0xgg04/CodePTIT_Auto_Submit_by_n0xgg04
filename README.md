@@ -11,6 +11,10 @@ Chi tiết config ib hỏi LTA :)))
 - Install package
 
 ```sh
+npm i -g yarn ts-node
+```
+
+```sh
 yarn install
 ```
 
