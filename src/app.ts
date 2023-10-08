@@ -53,7 +53,8 @@ Promise.all([1,2,3].map((page) => getQuestionsInPage(page))).then(async(res) => 
             await delay(random_delay* 60 * 1000);
         }
     }
-
+    //green 
+    console.log("\x1b[32m%s\x1b[0m",`Đã làm đủ bài rồi! Mai chạy tiếp !`);
 }).catch(() => {
     console.log("\x1b[31m%s\x1b[0m",`Login failed! Check your cookie and .env file!`);
 });

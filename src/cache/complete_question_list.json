@@ -120,6 +120,14 @@
         "problemDifficulty": "1"
     },
     {
+        "problemName": "ĐẢO TỪ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0743",
+        "problemID": "CPP0743",
+        "problemStatus": "Complete",
+        "problemTopic": "Ứng dụng thư viện STL",
+        "problemDifficulty": "1"
+    },
+    {
         "problemName": "SỐ LẶP LẠI",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0181",
         "problemID": "CPP0181",

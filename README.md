@@ -19,6 +19,8 @@ yarn install
 - Edit your cookie in `./common/config`
 - Set up ENV in .env file
 
+- CSRF_TOKEN, COOKIE lấy tại form submit bài trong code PTIT
+
 ### Run tool
 
 ```sh
