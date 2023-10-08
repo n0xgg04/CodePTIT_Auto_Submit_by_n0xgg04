@@ -16,10 +16,10 @@ yarn install
 
 ### Config
 
-- Edit your cookie in `./common/config`
-- Set up ENV in .env file
+- Đặt tên đăng nhập, mật khẩu CODE PTIT tại file .env
+  Chạy
 
-- CSRF_TOKEN, COOKIE lấy tại form submit bài trong code PTIT
+trong console sau khi đăng nhập CODEPTIT để lấy cookie
 
 ### Run tool
 

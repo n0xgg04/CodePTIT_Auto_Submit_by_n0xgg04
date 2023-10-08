@@ -192,27 +192,11 @@
         "problemDifficulty": "1"
     },
     {
-        "problemName": "PHẦN TỬ NHỎ NHẤT THỨ K",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0208",
-        "problemID": "CPP0208",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Mảng một chiều",
-        "problemDifficulty": "1"
-    },
-    {
         "problemName": "TÍNH TỔNG TRONG KHOẢNG",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0209",
         "problemID": "CPP0209",
         "problemStatus": "Incomplete",
         "problemTopic": "Mảng một chiều",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "BIẾN ĐỔI NHỊ PHÂN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0219",
-        "problemID": "CPP0219",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Mảng hai chiều",
         "problemDifficulty": "1"
     },
     {
@@ -853,14 +837,6 @@
         "problemID": "CPP0232",
         "problemStatus": "Incomplete",
         "problemTopic": "Mảng hai chiều",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "BIẾN ĐỔI DÃY SỐ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0241",
-        "problemID": "CPP0241",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Mảng một chiều",
         "problemDifficulty": "2"
     },
     {
@@ -1656,14 +1632,6 @@
         "problemDifficulty": "3"
     },
     {
-        "problemName": "TÍCH HAI SỐ NGUYÊN LỚN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0326",
-        "problemID": "CPP0326",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Xử lý số nguyên lớn",
-        "problemDifficulty": "3"
-    },
-    {
         "problemName": "CHIA HẾT CHO 8",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0328",
         "problemID": "CPP0328",
@@ -1741,14 +1709,6 @@
         "problemID": "CPP0632",
         "problemStatus": "Incomplete",
         "problemTopic": "Lớp bạn - Kế thừa",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "ĐẾM SỐ CÁCH DI CHUYỂN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0716",
-        "problemID": "CPP0716",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Kỹ thuật sinh kế tiếp và Quay lui",
         "problemDifficulty": "3"
     },
     {

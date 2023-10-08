@@ -3,8 +3,12 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const check_env = () => {
-    if(!process.env.CSRF_TOKEN){
-        throw new Error('CSRF_TOKEN not found');
+    if(!process.env.CODEPTIT_USERNAME){
+        throw new Error('Username is required');
+    }
+
+    if(!process.env.CODEPTIT_PASSWORD){
+        throw new Error('Password is required');
     }
 
     if(!process.env.LIMIT_TASK){

@@ -112,6 +112,22 @@
         "problemDifficulty": "1"
     },
     {
+        "problemName": "PHẦN TỬ NHỎ NHẤT THỨ K",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0208",
+        "problemID": "CPP0208",
+        "problemStatus": "Complete",
+        "problemTopic": "Mảng một chiều",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "BIẾN ĐỔI NHỊ PHÂN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0219",
+        "problemID": "CPP0219",
+        "problemStatus": "Complete",
+        "problemTopic": "Mảng hai chiều",
+        "problemDifficulty": "1"
+    },
+    {
         "problemName": "LOẠI BỎ NGUYÊN ÂM",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0371",
         "problemID": "CPP0371",
@@ -144,6 +160,14 @@
         "problemDifficulty": "2"
     },
     {
+        "problemName": "BIẾN ĐỔI DÃY SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0241",
+        "problemID": "CPP0241",
+        "problemStatus": "Complete",
+        "problemTopic": "Mảng một chiều",
+        "problemDifficulty": "2"
+    },
+    {
         "problemName": "BIẾN ĐỔI DÃY SỐ - 2",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0434",
         "problemID": "CPP0434",
@@ -166,5 +190,21 @@
         "problemStatus": "Complete",
         "problemTopic": "Vào ra trên tệp",
         "problemDifficulty": "2"
+    },
+    {
+        "problemName": "TÍCH HAI SỐ NGUYÊN LỚN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0326",
+        "problemID": "CPP0326",
+        "problemStatus": "Complete",
+        "problemTopic": "Xử lý số nguyên lớn",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "ĐẾM SỐ CÁCH DI CHUYỂN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0716",
+        "problemID": "CPP0716",
+        "problemStatus": "Complete",
+        "problemTopic": "Kỹ thuật sinh kế tiếp và Quay lui",
+        "problemDifficulty": "3"
     }
 ]
