@@ -1,0 +1,162 @@
+[
+    {
+        "problemName": "Hello World",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CHELLO",
+        "problemID": "CHELLO",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍNH TỔNG 1 ĐẾN N",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0101",
+        "problemID": "CPP0101",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CHỮ HOA – CHỮ THƯỜNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0102",
+        "problemID": "CPP0102",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍNH TỔNG PHÂN THỨC - 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0103",
+        "problemID": "CPP0103",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍNH TỔNG GIAI THỪA",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0104",
+        "problemID": "CPP0104",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ LỘC PHÁT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0105",
+        "problemID": "CPP0105",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ THUẬN NGHỊCH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0106",
+        "problemID": "CPP0106",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CHẤM ĐIỂM TRẮC NGHIỆM",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0107",
+        "problemID": "CPP0107",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CÂN BẰNG CHẴN LẺ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0109",
+        "problemID": "CPP0109",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "MÃ SỐ QUỐC GIA",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0110",
+        "problemID": "CPP0110",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ LIỀN KỀ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0111",
+        "problemID": "CPP0111",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "KHOẢNG CÁCH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0112",
+        "problemID": "CPP0112",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ƯỚC SỐ NGUYÊN TỐ LỚN NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0132",
+        "problemID": "CPP0132",
+        "problemStatus": "Complete",
+        "problemTopic": "Số nguyên tố và áp dụng",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ƯỚC SỐ NGUYÊN TỐ NHỎ HƠN N",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0133",
+        "problemID": "CPP0133",
+        "problemStatus": "Complete",
+        "problemTopic": "Số nguyên tố và áp dụng",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LOẠI BỎ NGUYÊN ÂM",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0371",
+        "problemID": "CPP0371",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu string và áp dụng",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ LẶP LẠI",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0181",
+        "problemID": "CPP0181",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "DÃY MOUNTAIN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0216",
+        "problemID": "CPP0216",
+        "problemStatus": "Complete",
+        "problemTopic": "Mảng một chiều",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "BIẾN ĐỔI DÃY SỐ - 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0434",
+        "problemID": "CPP0434",
+        "problemStatus": "Complete",
+        "problemTopic": "Ứng dụng sắp xếp",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "LOẠI BỎ 100",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0747",
+        "problemID": "CPP0747",
+        "problemStatus": "Complete",
+        "problemTopic": "Ứng dụng toán học",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "LỚP INTSET",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0807",
+        "problemID": "CPP0807",
+        "problemStatus": "Complete",
+        "problemTopic": "Vào ra trên tệp",
+        "problemDifficulty": "2"
+    }
+]
