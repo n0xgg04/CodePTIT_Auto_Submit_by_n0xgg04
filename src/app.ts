@@ -19,7 +19,7 @@ const delay_high = Number(process.env.DELAY_HIGH) ||  7; //minutes
 
 check_env();
 
-getCodePtitCookie().then(({cookie, csrf_str}) => {
+getCodePtitCookie().then(({cookie}) => {
     Promise.all([1,2,3].map((page) => getQuestionsInPage(page, cookie))).then(async(res) => {
         const problems = res.map((page) => [...page.incomplete_question_list, ...page.complete_question_list]);
         let problemArray: ProblemInfo[] = _.flatten(problems);
@@ -30,7 +30,9 @@ getCodePtitCookie().then(({cookie, csrf_str}) => {
         fs.writeFileSync(`${__dirname}/cache/complete_question_list.json`, JSON.stringify(complete_question_list, null, 4));
         //clear console
         console.clear();
-        const submit_csrf = await getCodePtitCsrf("CPP0102", cookie);
+        const randomIndexCsrf = Math.floor(Math.random() * incomplete_question_list.length);
+        const randomProblemIDCsrf = incomplete_question_list[randomIndexCsrf].problemID;
+        const submit_csrf = await getCodePtitCsrf(randomProblemIDCsrf!, cookie);
         console.log("\x1b[32m%s\x1b[0m",`Login success!`);
         console.log("> Total problems: ", problemArray.length);
         console.log("> Incomplete problems: ", incomplete_question_list.length);
@@ -60,11 +62,11 @@ getCodePtitCookie().then(({cookie, csrf_str}) => {
         }
         //green 
         console.log("\x1b[32m%s\x1b[0m",`Đã làm đủ bài rồi! Mai chạy tiếp !`);
-    }).catch((err) => {
+    }).catch(() => {
        // console.log(err);
         console.log("\x1b[31m%s\x1b[0m",`[Failed to submit code!] Login failed! Check your cookie and .env file!`);
     });
-}).catch((err) => {
+}).catch(() => {
   //  console.log(err);
     console.log("\x1b[31m%s\x1b[0m",`[Failed to get cookie] Login failed! Check your cookie and .env file!`);
 });

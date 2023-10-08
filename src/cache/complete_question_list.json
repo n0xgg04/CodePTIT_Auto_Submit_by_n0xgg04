@@ -96,6 +96,14 @@
         "problemDifficulty": "1"
     },
     {
+        "problemName": "ƯỚC SỐ NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0130",
+        "problemID": "CPP0130",
+        "problemStatus": "Complete",
+        "problemTopic": "Số nguyên tố và áp dụng",
+        "problemDifficulty": "1"
+    },
+    {
         "problemName": "ƯỚC SỐ NGUYÊN TỐ LỚN NHẤT",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0132",
         "problemID": "CPP0132",
@@ -128,6 +136,22 @@
         "problemDifficulty": "1"
     },
     {
+        "problemName": "MA TRẬN NHỊ PHÂN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0230",
+        "problemID": "CPP0230",
+        "problemStatus": "Complete",
+        "problemTopic": "Mảng hai chiều",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LOẠI BỎ TỪ TRONG XÂU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0313",
+        "problemID": "CPP0313",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu string và áp dụng",
+        "problemDifficulty": "1"
+    },
+    {
         "problemName": "LOẠI BỎ NGUYÊN ÂM",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0371",
         "problemID": "CPP0371",
@@ -152,6 +176,14 @@
         "problemDifficulty": "2"
     },
     {
+        "problemName": "HIỆU LỚN NHẤT CỦA CẶP PHẦN TỬ ĐÚNG THỨ TỰ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0210",
+        "problemID": "CPP0210",
+        "problemStatus": "Complete",
+        "problemTopic": "Mảng một chiều",
+        "problemDifficulty": "2"
+    },
+    {
         "problemName": "DÃY MOUNTAIN",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0216",
         "problemID": "CPP0216",
@@ -168,11 +200,27 @@
         "problemDifficulty": "2"
     },
     {
+        "problemName": "ĐIỂM CÂN BẰNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0273",
+        "problemID": "CPP0273",
+        "problemStatus": "Complete",
+        "problemTopic": "",
+        "problemDifficulty": "2"
+    },
+    {
         "problemName": "BIẾN ĐỔI DÃY SỐ - 2",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0434",
         "problemID": "CPP0434",
         "problemStatus": "Complete",
         "problemTopic": "Ứng dụng sắp xếp",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "PHÉP TOÁN VỚI PHÂN SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0512",
+        "problemID": "CPP0512",
+        "problemStatus": "Complete",
+        "problemTopic": "Ứng dụng cấu trúc",
         "problemDifficulty": "2"
     },
     {
@@ -206,5 +254,13 @@
         "problemStatus": "Complete",
         "problemTopic": "Kỹ thuật sinh kế tiếp và Quay lui",
         "problemDifficulty": "3"
+    },
+    {
+        "problemName": "MA TRẬN XOẮN ỐC - 3",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0234",
+        "problemID": "CPP0234",
+        "problemStatus": "Complete",
+        "problemTopic": "Mảng hai chiều",
+        "problemDifficulty": "4"
     }
 ]

@@ -80,14 +80,6 @@
         "problemDifficulty": "1"
     },
     {
-        "problemName": "ƯỚC SỐ NGUYÊN TỐ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0130",
-        "problemID": "CPP0130",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Số nguyên tố và áp dụng",
-        "problemDifficulty": "1"
-    },
-    {
         "problemName": "ƯỚC SỐ NGUYÊN TỐ THỨ K",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0134",
         "problemID": "CPP0134",
@@ -216,14 +208,6 @@
         "problemDifficulty": "1"
     },
     {
-        "problemName": "MA TRẬN NHỊ PHÂN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0230",
-        "problemID": "CPP0230",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Mảng hai chiều",
-        "problemDifficulty": "1"
-    },
-    {
         "problemName": "LIỆT KÊ SỐ KHÁC NHAU",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0244",
         "problemID": "CPP0244",
@@ -267,14 +251,6 @@
         "problemName": "XÂU PANGRAM",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0312",
         "problemID": "CPP0312",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Kiểu dữ liệu string và áp dụng",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "LOẠI BỎ TỪ TRONG XÂU",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0313",
-        "problemID": "CPP0313",
         "problemStatus": "Incomplete",
         "problemTopic": "Kiểu dữ liệu string và áp dụng",
         "problemDifficulty": "1"
@@ -760,14 +736,6 @@
         "problemDifficulty": "2"
     },
     {
-        "problemName": "HIỆU LỚN NHẤT CỦA CẶP PHẦN TỬ ĐÚNG THỨ TỰ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0210",
-        "problemID": "CPP0210",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Mảng một chiều",
-        "problemDifficulty": "2"
-    },
-    {
         "problemName": "TÍNH GIÁ TRỊ ĐA THỨC",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0212",
         "problemID": "CPP0212",
@@ -861,14 +829,6 @@
         "problemID": "CPP0261",
         "problemStatus": "Incomplete",
         "problemTopic": "Mảng hai chiều",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "ĐIỂM CÂN BẰNG",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0273",
-        "problemID": "CPP0273",
-        "problemStatus": "Incomplete",
-        "problemTopic": "",
         "problemDifficulty": "2"
     },
     {
@@ -1141,14 +1101,6 @@
         "problemID": "CPP0454",
         "problemStatus": "Incomplete",
         "problemTopic": "Ứng dụng sắp xếp",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "PHÉP TOÁN VỚI PHÂN SỐ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0512",
-        "problemID": "CPP0512",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Ứng dụng cấu trúc",
         "problemDifficulty": "2"
     },
     {
@@ -1763,14 +1715,6 @@
         "problemName": "MA TRẬN XOẮN ỐC - 2",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0233",
         "problemID": "CPP0233",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Mảng hai chiều",
-        "problemDifficulty": "4"
-    },
-    {
-        "problemName": "MA TRẬN XOẮN ỐC - 3",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0234",
-        "problemID": "CPP0234",
         "problemStatus": "Incomplete",
         "problemTopic": "Mảng hai chiều",
         "problemDifficulty": "4"
