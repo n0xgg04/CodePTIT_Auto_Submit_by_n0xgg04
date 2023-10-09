@@ -120,6 +120,22 @@
         "problemDifficulty": "1"
     },
     {
+        "problemName": "CẶP SỐ NGUYÊN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0138",
+        "problemID": "CPP0138",
+        "problemStatus": "Complete",
+        "problemTopic": "Số nguyên tố và áp dụng",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "DÃY TAM GIÁC",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0205",
+        "problemID": "CPP0205",
+        "problemStatus": "Complete",
+        "problemTopic": "Mảng một chiều",
+        "problemDifficulty": "1"
+    },
+    {
         "problemName": "PHẦN TỬ NHỎ NHẤT THỨ K",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0208",
         "problemID": "CPP0208",
@@ -176,6 +192,22 @@
         "problemDifficulty": "1"
     },
     {
+        "problemName": "NGUYÊN TỐ CÙNG NHAU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0142",
+        "problemID": "CPP0142",
+        "problemStatus": "Complete",
+        "problemTopic": "Ước số và Ước số chung lớn nhất",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "CHIA HẾT CHO  BA SỐ NGUYÊN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0173",
+        "problemID": "CPP0173",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
+        "problemDifficulty": "2"
+    },
+    {
         "problemName": "SỐ LẶP LẠI",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0181",
         "problemID": "CPP0181",
@@ -216,6 +248,14 @@
         "problemDifficulty": "2"
     },
     {
+        "problemName": "SỐ ĐẦY ĐỦ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0320",
+        "problemID": "CPP0320",
+        "problemStatus": "Complete",
+        "problemTopic": "Kiểu dữ liệu string và áp dụng",
+        "problemDifficulty": "2"
+    },
+    {
         "problemName": "BIẾN ĐỔI DÃY SỐ - 2",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0434",
         "problemID": "CPP0434",
@@ -229,6 +269,22 @@
         "problemID": "CPP0512",
         "problemStatus": "Complete",
         "problemTopic": "Ứng dụng cấu trúc",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "SẮP XẾP DANH SÁCH NHÂN VIÊN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0518",
+        "problemID": "CPP0518",
+        "problemStatus": "Complete",
+        "problemTopic": "Mảng cấu trúc",
+        "problemDifficulty": "2"
+    },
+    {
+        "problemName": "DANH SÁCH THỰC TẬP - 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0528",
+        "problemID": "CPP0528",
+        "problemStatus": "Complete",
+        "problemTopic": "Mảng cấu trúc",
         "problemDifficulty": "2"
     },
     {
@@ -248,11 +304,27 @@
         "problemDifficulty": "2"
     },
     {
+        "problemName": "ĐỒNG DƯ VỚI K",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0218",
+        "problemID": "CPP0218",
+        "problemStatus": "Complete",
+        "problemTopic": "Mảng một chiều",
+        "problemDifficulty": "3"
+    },
+    {
         "problemName": "TÍCH HAI SỐ NGUYÊN LỚN",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0326",
         "problemID": "CPP0326",
         "problemStatus": "Complete",
         "problemTopic": "Xử lý số nguyên lớn",
+        "problemDifficulty": "3"
+    },
+    {
+        "problemName": "BỐN ĐIỂM TRÊN MẶT PHẲNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0531",
+        "problemID": "CPP0531",
+        "problemStatus": "Complete",
+        "problemTopic": "Ứng dụng cấu trúc",
         "problemDifficulty": "3"
     },
     {

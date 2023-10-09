@@ -96,14 +96,6 @@
         "problemDifficulty": "1"
     },
     {
-        "problemName": "CẶP SỐ NGUYÊN TỐ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0138",
-        "problemID": "CPP0138",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Số nguyên tố và áp dụng",
-        "problemDifficulty": "1"
-    },
-    {
         "problemName": "SỐ FIBONACCI THỨ N",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0143",
         "problemID": "CPP0143",
@@ -155,14 +147,6 @@
         "problemName": "SỐ NHỎ NHẤT CHƯA XUẤT HIỆN",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0203",
         "problemID": "CPP0203",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Mảng một chiều",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "DÃY TAM GIÁC",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0205",
-        "problemID": "CPP0205",
         "problemStatus": "Incomplete",
         "problemTopic": "Mảng một chiều",
         "problemDifficulty": "1"
@@ -704,22 +688,6 @@
         "problemDifficulty": "2"
     },
     {
-        "problemName": "NGUYÊN TỐ CÙNG NHAU",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0142",
-        "problemID": "CPP0142",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Ước số và Ước số chung lớn nhất",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "CHIA HẾT CHO  BA SỐ NGUYÊN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0173",
-        "problemID": "CPP0173",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Kiểu dữ liệu - Viết vòng lặp - Viết hàm",
-        "problemDifficulty": "2"
-    },
-    {
         "problemName": "ĐẾM SỐ NGUYÊN TỐ",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0204",
         "problemID": "CPP0204",
@@ -867,14 +835,6 @@
         "problemName": "BIỂN SỐ ĐẸP",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0318",
         "problemID": "CPP0318",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Kiểu dữ liệu string và áp dụng",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "SỐ ĐẦY ĐỦ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0320",
-        "problemID": "CPP0320",
         "problemStatus": "Incomplete",
         "problemTopic": "Kiểu dữ liệu string và áp dụng",
         "problemDifficulty": "2"
@@ -1128,14 +1088,6 @@
         "problemDifficulty": "2"
     },
     {
-        "problemName": "SẮP XẾP DANH SÁCH NHÂN VIÊN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0518",
-        "problemID": "CPP0518",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Mảng cấu trúc",
-        "problemDifficulty": "2"
-    },
-    {
         "problemName": "BẢNG ĐIỂM THÀNH PHẦN - 1",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0524",
         "problemID": "CPP0524",
@@ -1163,14 +1115,6 @@
         "problemName": "SẮP XẾP THỜI GIAN",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0527",
         "problemID": "CPP0527",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Mảng cấu trúc",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "DANH SÁCH THỰC TẬP - 1",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0528",
-        "problemID": "CPP0528",
         "problemStatus": "Incomplete",
         "problemTopic": "Mảng cấu trúc",
         "problemDifficulty": "2"
@@ -1504,14 +1448,6 @@
         "problemDifficulty": "3"
     },
     {
-        "problemName": "ĐỒNG DƯ VỚI K",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0218",
-        "problemID": "CPP0218",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Mảng một chiều",
-        "problemDifficulty": "3"
-    },
-    {
         "problemName": "IN MA TRẬN - 2",
         "problemLink": "https://code.ptit.edu.vn/student/question/CPP0228",
         "problemID": "CPP0228",
@@ -1629,14 +1565,6 @@
         "problemID": "CPP0452",
         "problemStatus": "Incomplete",
         "problemTopic": "Ứng dụng tìm kiếm",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "BỐN ĐIỂM TRÊN MẶT PHẲNG",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CPP0531",
-        "problemID": "CPP0531",
-        "problemStatus": "Incomplete",
-        "problemTopic": "Ứng dụng cấu trúc",
         "problemDifficulty": "3"
     },
     {
