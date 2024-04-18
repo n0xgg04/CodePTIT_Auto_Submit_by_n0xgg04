@@ -20,7 +20,7 @@ const delay_high = Number(process.env.DELAY_HIGH) ||  7; //minutes
 check_env();
 
 getCodePtitCookie().then(({cookie}) => {
-    Promise.all([1,2,3].map((page) => getQuestionsInPage(page, cookie))).then(async(res) => {
+    Promise.all([1,2,3,4].map((page) => getQuestionsInPage(page, cookie))).then(async(res) => {
         const problems = res.map((page) => [...page.incomplete_question_list, ...page.complete_question_list]);
         let problemArray: ProblemInfo[] = _.flatten(problems);
         problemArray = _.uniqBy(problemArray, (problem) => problem.problemID);
