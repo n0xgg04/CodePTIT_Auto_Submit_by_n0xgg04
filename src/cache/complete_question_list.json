@@ -1,13 +1,5 @@
 [
     {
-        "problemName": "Hello World",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CHELLO",
-        "problemID": "CHELLO",
-        "problemStatus": "Complete",
-        "problemTopic": "",
-        "problemDifficulty": "1"
-    },
-    {
         "problemName": "THUẬT TOÁN SINH",
         "problemLink": "https://code.ptit.edu.vn/student/question/CTDL_001",
         "problemID": "CTDL_001",
@@ -120,19 +112,19 @@
         "problemDifficulty": "1"
     },
     {
-        "problemName": "TỔ HỢP TIẾP THEO",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA01021",
-        "problemID": "DSA01021",
-        "problemStatus": "Complete",
-        "problemTopic": "Sinh kế tiếp",
-        "problemDifficulty": "1"
-    },
-    {
         "problemName": "SỐ THỨ TỰ HOÁN VỊ",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA01022",
         "problemID": "DSA01022",
         "problemStatus": "Complete",
         "problemTopic": "Sinh kế tiếp",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐẶT TÊN - 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA01024",
+        "problemID": "DSA01024",
+        "problemStatus": "Complete",
+        "problemTopic": "Quay lui - Nhánh cận",
         "problemDifficulty": "1"
     },
     {
@@ -168,9 +160,25 @@
         "problemDifficulty": "1"
     },
     {
-        "problemName": "DÃY SỐ 2",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02002",
-        "problemID": "DSA02002",
+        "problemName": "DÃY SỐ 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02001",
+        "problemID": "DSA02001",
+        "problemStatus": "Complete",
+        "problemTopic": "Quay lui - Nhánh cận",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "DI CHUYỂN TRONG MÊ CUNG 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02003",
+        "problemID": "DSA02003",
+        "problemStatus": "Complete",
+        "problemTopic": "Quay lui - Nhánh cận",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "HOÁN VỊ XÂU KÝ TỰ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02005",
+        "problemID": "DSA02005",
         "problemStatus": "Complete",
         "problemTopic": "Quay lui - Nhánh cận",
         "problemDifficulty": "1"
@@ -179,6 +187,22 @@
         "problemName": "DÃY CON TỔNG BẰNG K",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA02006",
         "problemID": "DSA02006",
+        "problemStatus": "Complete",
+        "problemTopic": "Quay lui - Nhánh cận",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "DI CHUYỂN TRONG MA TRẬN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02012",
+        "problemID": "DSA02012",
+        "problemStatus": "Complete",
+        "problemTopic": "Quay lui - Nhánh cận",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SẮP XẾP QUÂN HẬU 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02016",
+        "problemID": "DSA02016",
         "problemStatus": "Complete",
         "problemTopic": "Quay lui - Nhánh cận",
         "problemDifficulty": "1"
@@ -208,11 +232,75 @@
         "problemDifficulty": "1"
     },
     {
+        "problemName": "THÁP HÀ NỘI",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02029",
+        "problemID": "DSA02029",
+        "problemStatus": "Complete",
+        "problemTopic": "Quay lui - Nhánh cận",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "LIỆT KÊ XÂU KÝ TỰ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02030",
+        "problemID": "DSA02030",
+        "problemStatus": "Complete",
+        "problemTopic": "Quay lui - Nhánh cận",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "GHÉP CHỮ CÁI",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02031",
+        "problemID": "DSA02031",
+        "problemStatus": "Complete",
+        "problemTopic": "Quay lui - Nhánh cận",
+        "problemDifficulty": "1"
+    },
+    {
         "problemName": "SỐ XA CÁCH",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA02033",
         "problemID": "DSA02033",
         "problemStatus": "Complete",
         "problemTopic": "Quay lui - Nhánh cận",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TRÒ CHƠI VỚI CÁC CON SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02034",
+        "problemID": "DSA02034",
+        "problemStatus": "Complete",
+        "problemTopic": "Quay lui - Nhánh cận",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐỔI TIỀN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03001",
+        "problemID": "DSA03001",
+        "problemStatus": "Complete",
+        "problemTopic": "Giải thuật tham lam",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "NHẦM CHỮ SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03002",
+        "problemID": "DSA03002",
+        "problemStatus": "Complete",
+        "problemTopic": "Giải thuật tham lam",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÌM MAX",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03003",
+        "problemID": "DSA03003",
+        "problemStatus": "Complete",
+        "problemTopic": "Giải thuật tham lam",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TỔNG NHỎ NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03004",
+        "problemID": "DSA03004",
+        "problemStatus": "Complete",
+        "problemTopic": "Giải thuật tham lam",
         "problemDifficulty": "1"
     },
     {
@@ -224,9 +312,17 @@
         "problemDifficulty": "1"
     },
     {
-        "problemName": "SẮP XẾP THAM LAM",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03006",
-        "problemID": "DSA03006",
+        "problemName": "SẮP XẾP CÔNG VIỆC 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03008",
+        "problemID": "DSA03008",
+        "problemStatus": "Complete",
+        "problemTopic": "Giải thuật tham lam",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "NỐI DÂY 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03010",
+        "problemID": "DSA03010",
         "problemStatus": "Complete",
         "problemTopic": "Giải thuật tham lam",
         "problemDifficulty": "1"
@@ -235,6 +331,14 @@
         "problemName": "SẮP ĐẶT XÂU KÝ TỰ 1",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA03012",
         "problemID": "DSA03012",
+        "problemStatus": "Complete",
+        "problemTopic": "Giải thuật tham lam",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SẮP ĐẶT XÂU KÝ TỰ 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03013",
+        "problemID": "DSA03013",
         "problemStatus": "Complete",
         "problemTopic": "Giải thuật tham lam",
         "problemDifficulty": "1"
@@ -312,6 +416,14 @@
         "problemDifficulty": "1"
     },
     {
+        "problemName": "GẤP ĐÔI DÃY SỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA04004",
+        "problemID": "DSA04004",
+        "problemStatus": "Complete",
+        "problemTopic": "Chia và trị",
+        "problemDifficulty": "1"
+    },
+    {
         "problemName": "DÃY XÂU FIBONACCI",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA04005",
         "problemID": "DSA04005",
@@ -320,9 +432,49 @@
         "problemDifficulty": "1"
     },
     {
+        "problemName": "DÃY CON LIÊN TIẾP CÓ TỔNG LỚN NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA04010",
+        "problemID": "DSA04010",
+        "problemStatus": "Complete",
+        "problemTopic": "Chia và trị",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍNH FLOOR(X)",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA04015",
+        "problemID": "DSA04015",
+        "problemStatus": "Complete",
+        "problemTopic": "Chia và trị",
+        "problemDifficulty": "1"
+    },
+    {
         "problemName": "PHẦN TỬ THỨ K",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA04016",
         "problemID": "DSA04016",
+        "problemStatus": "Complete",
+        "problemTopic": "Chia và trị",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "PHẦN TỬ KHÁC NHAU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA04017",
+        "problemID": "DSA04017",
+        "problemStatus": "Complete",
+        "problemTopic": "Chia và trị",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐẾM SỐ 0",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA04018",
+        "problemID": "DSA04018",
+        "problemStatus": "Complete",
+        "problemTopic": "Chia và trị",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÌM KIẾM NHỊ PHÂN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA04020",
+        "problemID": "DSA04020",
         "problemStatus": "Complete",
         "problemTopic": "Chia và trị",
         "problemDifficulty": "1"
@@ -352,6 +504,46 @@
         "problemDifficulty": "1"
     },
     {
+        "problemName": "XÂU CON CHUNG DÀI NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05001",
+        "problemID": "DSA05001",
+        "problemStatus": "Complete",
+        "problemTopic": "Quy hoạch động",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "DÃY CON TĂNG DÀI NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05004",
+        "problemID": "DSA05004",
+        "problemStatus": "Complete",
+        "problemTopic": "Quy hoạch động",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ BƯỚC ÍT NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05005",
+        "problemID": "DSA05005",
+        "problemStatus": "Complete",
+        "problemTopic": "Quy hoạch động",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "DÃY CON CÓ TỔNG BẰNG S",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05008",
+        "problemID": "DSA05008",
+        "problemStatus": "Complete",
+        "problemTopic": "Quy hoạch động",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TỔ HỢP C(n, k)",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05012",
+        "problemID": "DSA05012",
+        "problemStatus": "Complete",
+        "problemTopic": "Quy hoạch động",
+        "problemDifficulty": "1"
+    },
+    {
         "problemName": "BẬC THANG",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA05013",
         "problemID": "DSA05013",
@@ -360,11 +552,43 @@
         "problemDifficulty": "1"
     },
     {
-        "problemName": "SẮP XẾP XEN KẼ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06001",
-        "problemID": "DSA06001",
+        "problemName": "CON ẾCH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05025",
+        "problemID": "DSA05025",
         "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
+        "problemTopic": "Quy hoạch động",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "XEM PHIM",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05026",
+        "problemID": "DSA05026",
+        "problemStatus": "Complete",
+        "problemTopic": "Quy hoạch động",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "CÁI TÚI",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05027",
+        "problemID": "DSA05027",
+        "problemStatus": "Complete",
+        "problemTopic": "Quy hoạch động",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "GIẢI MÃ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05029",
+        "problemID": "DSA05029",
+        "problemStatus": "Complete",
+        "problemTopic": "Quy hoạch động",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TỔNG SỐ CÁCH DI CHUYỂN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05034",
+        "problemID": "DSA05034",
+        "problemStatus": "Complete",
+        "problemTopic": "Quy hoạch động",
         "problemDifficulty": "1"
     },
     {
@@ -384,38 +608,6 @@
         "problemDifficulty": "1"
     },
     {
-        "problemName": "SẮP XẾP [0 1 2]",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06006",
-        "problemID": "DSA06006",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "SẮP XẾP DÃY CON LIÊN TỤC",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06007",
-        "problemID": "DSA06007",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "ĐẾM CẶP",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06008",
-        "problemID": "DSA06008",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "PHẦN TỬ LỚN NHẤT",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06012",
-        "problemID": "DSA06012",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
         "problemName": "SỐ LẦN XUẤT HIỆN",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA06013",
         "problemID": "DSA06013",
@@ -424,147 +616,19 @@
         "problemDifficulty": "1"
     },
     {
-        "problemName": "MERGE SORT",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06015",
-        "problemID": "DSA06015",
+        "problemName": "ĐẾM CẶP",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06049",
+        "problemID": "DSA06049",
         "problemStatus": "Complete",
         "problemTopic": "Sắp xếp - Tìm kiếm",
         "problemDifficulty": "1"
     },
     {
-        "problemName": "BỔ SUNG PHẦN TỬ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06018",
-        "problemID": "DSA06018",
+        "problemName": "NGĂN XẾP 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07001",
+        "problemID": "DSA07001",
         "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "SẮP XẾP THEO SỐ LẦN XUẤT HIỆN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06019",
-        "problemID": "DSA06019",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "TÌM KIẾM",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06020",
-        "problemID": "DSA06020",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "TÌM KIẾM TRONG DÃY SẮP XẾP VÒNG",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06021",
-        "problemID": "DSA06021",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "SẮP XẾP ĐỔI CHỖ TRỰC TIẾP",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06023",
-        "problemID": "DSA06023",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "SẮP XẾP CHÈN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06025",
-        "problemID": "DSA06025",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "SẮP XẾP NỔI BỌT",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06026",
-        "problemID": "DSA06026",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "SẮP XẾP CHỌN  - LIỆT KÊ NGƯỢC",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06028",
-        "problemID": "DSA06028",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "SẮP XẾP NỔI BỌT - LIỆT KÊ NGƯỢC",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06030",
-        "problemID": "DSA06030",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "PHẦN TỬ LỚN NHẤT TRONG DÃY CON",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06031",
-        "problemID": "DSA06031",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "BỘ BA SỐ CÓ TỔNG NHỎ HƠN K",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06032",
-        "problemID": "DSA06032",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "KHOẢNG CÁCH XA NHẤT",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06033",
-        "problemID": "DSA06033",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "DÃY TAM GIÁC DÀI NHẤT",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06035",
-        "problemID": "DSA06035",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "BỘ BA SỐ BẰNG K",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06036",
-        "problemID": "DSA06036",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "GIAO CỦA BA DÃY SỐ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06040",
-        "problemID": "DSA06040",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "CHÊNH LỆCH NHỎ NHẤT",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06046",
-        "problemID": "DSA06046",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "BỘ BA SỐ PYTAGO",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA06047",
-        "problemID": "DSA06047",
-        "problemStatus": "Complete",
-        "problemTopic": "Sắp xếp - Tìm kiếm",
+        "problemTopic": "Ngăn xếp",
         "problemDifficulty": "1"
     },
     {
@@ -600,25 +664,65 @@
         "problemDifficulty": "1"
     },
     {
-        "problemName": "ĐẢO TỪ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07023",
-        "problemID": "DSA07023",
+        "problemName": "BIẾN ĐỐI TIỀN TỐ - HẬU TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07010",
+        "problemID": "DSA07010",
         "problemStatus": "Complete",
         "problemTopic": "Ngăn xếp",
         "problemDifficulty": "1"
     },
     {
-        "problemName": "CẤU TRÚC DỮ LIỆU HÀNG ĐỢI 1",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08001",
-        "problemID": "DSA08001",
+        "problemName": "TÍNH GIÁ TRỊ BIỂU THỨC HẬU TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07013",
+        "problemID": "DSA07013",
+        "problemStatus": "Complete",
+        "problemTopic": "Ngăn xếp",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "TÍNH GIÁ TRỊ BIỂU THỨC TIỀN TỐ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07014",
+        "problemID": "DSA07014",
+        "problemStatus": "Complete",
+        "problemTopic": "Ngăn xếp",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "DÃY NGOẶC ĐÚNG DÀI NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07021",
+        "problemID": "DSA07021",
+        "problemStatus": "Complete",
+        "problemTopic": "Ngăn xếp",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "PHẦN TỬ BÊN PHẢI ĐẦU TIÊN LỚN HƠN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07027",
+        "problemID": "DSA07027",
+        "problemStatus": "Complete",
+        "problemTopic": "Ngăn xếp",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "KIỂM TRA DÃY NGOẶC ĐÚNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07110",
+        "problemID": "DSA07110",
+        "problemStatus": "Complete",
+        "problemTopic": "Ngăn xếp",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "SỐ NHỊ PHÂN TỪ 1 ĐẾN N",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08005",
+        "problemID": "DSA08005",
         "problemStatus": "Complete",
         "problemTopic": "Hàng đợi",
         "problemDifficulty": "1"
     },
     {
-        "problemName": "HÀNG ĐỢI HAI ĐẦU (DEQUEUE)",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08003",
-        "problemID": "DSA08003",
+        "problemName": "SỐ 0 VÀ SỐ 9",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08006",
+        "problemID": "DSA08006",
         "problemStatus": "Complete",
         "problemTopic": "Hàng đợi",
         "problemDifficulty": "1"
@@ -648,6 +752,14 @@
         "problemDifficulty": "1"
     },
     {
+        "problemName": "SỐ LỘC PHÁT 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08018",
+        "problemID": "DSA08018",
+        "problemStatus": "Complete",
+        "problemTopic": "Hàng đợi",
+        "problemDifficulty": "1"
+    },
+    {
         "problemName": "SỐ LỘC PHÁT 3",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA08019",
         "problemID": "DSA08019",
@@ -656,41 +768,33 @@
         "problemDifficulty": "1"
     },
     {
-        "problemName": "DI CHUYỂN TRONG MA TRẬN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08021",
-        "problemID": "DSA08021",
-        "problemStatus": "Complete",
-        "problemTopic": "Hàng đợi",
-        "problemDifficulty": "1"
-    },
-    {
-        "problemName": "CHUYỂN DANH SÁCH CẠNH SANG DANH SÁCH KỀ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09001",
-        "problemID": "DSA09001",
+        "problemName": "DFS TRÊN ĐỒ THỊ VÔ HƯỚNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09004",
+        "problemID": "DSA09004",
         "problemStatus": "Complete",
         "problemTopic": "Duyệt đồ thị",
         "problemDifficulty": "1"
     },
     {
-        "problemName": "CHUYỂN TỪ DANH SÁCH KỀ SANG DANH SÁCH CẠNH",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09002",
-        "problemID": "DSA09002",
+        "problemName": "BFS TRÊN ĐỒ THỊ VÔ HƯỚNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09005",
+        "problemID": "DSA09005",
         "problemStatus": "Complete",
         "problemTopic": "Duyệt đồ thị",
         "problemDifficulty": "1"
     },
     {
-        "problemName": "BIỂU DIỄN ĐỒ THỊ CÓ HƯỚNG.",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09003",
-        "problemID": "DSA09003",
+        "problemName": "LIỆT KÊ CẠNH CẦU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09013",
+        "problemID": "DSA09013",
         "problemStatus": "Complete",
         "problemTopic": "Duyệt đồ thị",
         "problemDifficulty": "1"
     },
     {
-        "problemName": "CHUYỂN MA TRẬN KỀ SANG DANH SÁCH KỀ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09021",
-        "problemID": "DSA09021",
+        "problemName": "DFS TRÊN ĐỒ THỊ CÓ HƯỚNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09022",
+        "problemID": "DSA09022",
         "problemStatus": "Complete",
         "problemTopic": "Duyệt đồ thị",
         "problemDifficulty": "1"
@@ -699,6 +803,14 @@
         "problemName": "BFS TRÊN ĐỒ THỊ CÓ HƯỚNG",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA09024",
         "problemID": "DSA09024",
+        "problemStatus": "Complete",
+        "problemTopic": "Duyệt đồ thị",
+        "problemDifficulty": "1"
+    },
+    {
+        "problemName": "ĐƯỜNG ĐI THEO DFS VỚI ĐỒ THỊ CÓ HƯỚNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09025",
+        "problemID": "DSA09025",
         "problemStatus": "Complete",
         "problemTopic": "Duyệt đồ thị",
         "problemDifficulty": "1"
@@ -736,25 +848,17 @@
         "problemDifficulty": "1"
     },
     {
-        "problemName": "DÃY CON TĂNG DẦN BẬC K",
-        "problemLink": "https://code.ptit.edu.vn/student/question/CTDL_004",
-        "problemID": "CTDL_004",
+        "problemName": "XÂU AB ĐẶC BIỆT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA01009",
+        "problemID": "DSA01009",
         "problemStatus": "Complete",
         "problemTopic": "Sinh kế tiếp",
         "problemDifficulty": "2"
     },
     {
-        "problemName": "HOÁN VỊ TIẾP THEO CỦA CHUỖI SỐ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA01011",
-        "problemID": "DSA01011",
-        "problemStatus": "Complete",
-        "problemTopic": "Sinh kế tiếp",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "MÃ GRAY 2",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA01013",
-        "problemID": "DSA01013",
+        "problemName": "MÃ GRAY 1",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA01012",
+        "problemID": "DSA01012",
         "problemStatus": "Complete",
         "problemTopic": "Sinh kế tiếp",
         "problemDifficulty": "2"
@@ -768,14 +872,6 @@
         "problemDifficulty": "2"
     },
     {
-        "problemName": "PHÂN TÍCH SỐ 1",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA01016",
-        "problemID": "DSA01016",
-        "problemStatus": "Complete",
-        "problemTopic": "Sinh kế tiếp",
-        "problemDifficulty": "2"
-    },
-    {
         "problemName": "MÃ GRAY 3",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA01017",
         "problemID": "DSA01017",
@@ -784,57 +880,9 @@
         "problemDifficulty": "2"
     },
     {
-        "problemName": "ĐỔI CHỖ CÁC CHỮ SỐ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02007",
-        "problemID": "DSA02007",
-        "problemStatus": "Complete",
-        "problemTopic": "Quay lui - Nhánh cận",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "SỐ NGUYÊN TỐ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02013",
-        "problemID": "DSA02013",
-        "problemStatus": "Complete",
-        "problemTopic": "Quay lui - Nhánh cận",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "KÝ TỰ LẶP",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02025",
-        "problemID": "DSA02025",
-        "problemStatus": "Complete",
-        "problemTopic": "Quay lui - Nhánh cận",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "TỔ HỢP SỐ CÓ TỔNG BẰNG X",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02032",
-        "problemID": "DSA02032",
-        "problemStatus": "Complete",
-        "problemTopic": "Quay lui - Nhánh cận",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "DÃY CON CÓ K PHẦN TỬ TĂNG DẦN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02038",
-        "problemID": "DSA02038",
-        "problemStatus": "Complete",
-        "problemTopic": "Quay lui - Nhánh cận",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "PHÂN TÍCH SỐ 2",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02039",
-        "problemID": "DSA02039",
-        "problemStatus": "Complete",
-        "problemTopic": "Quay lui - Nhánh cận",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "BIẾN ĐỔI VỀ 1",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02041",
-        "problemID": "DSA02041",
+        "problemName": "SẮP XẾP QUÂN HẬU 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02017",
+        "problemID": "DSA02017",
         "problemStatus": "Complete",
         "problemTopic": "Quay lui - Nhánh cận",
         "problemDifficulty": "2"
@@ -848,17 +896,17 @@
         "problemDifficulty": "2"
     },
     {
-        "problemName": "SỐ NHỎ NHẤT",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03016",
-        "problemID": "DSA03016",
+        "problemName": "SẮP XẾP CÔNG VIỆC 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03009",
+        "problemID": "DSA03009",
         "problemStatus": "Complete",
         "problemTopic": "Giải thuật tham lam",
         "problemDifficulty": "2"
     },
     {
-        "problemName": "GIÁ TRỊ NHỎ NHẤT CỦA XÂU",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03017",
-        "problemID": "DSA03017",
+        "problemName": "NỐI DÂY 2",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03011",
+        "problemID": "DSA03011",
         "problemStatus": "Complete",
         "problemTopic": "Giải thuật tham lam",
         "problemDifficulty": "2"
@@ -872,59 +920,11 @@
         "problemDifficulty": "2"
     },
     {
-        "problemName": "BIỂU THỨC ĐÚNG",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03020",
-        "problemID": "DSA03020",
-        "problemStatus": "Complete",
-        "problemTopic": "Giải thuật tham lam",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "TÌM DÃY SỐ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03021",
-        "problemID": "DSA03021",
-        "problemStatus": "Complete",
-        "problemTopic": "Giải thuật tham lam",
-        "problemDifficulty": "2"
-    },
-    {
         "problemName": "LỰA CHỌN THAM LAM",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA03026",
         "problemID": "DSA03026",
         "problemStatus": "Complete",
         "problemTopic": "Giải thuật tham lam",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "HỆ CƠ SỐ K",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA04007",
-        "problemID": "DSA04007",
-        "problemStatus": "Complete",
-        "problemTopic": "Chia và trị",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "SỐ FIBONACCI THỨ N",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA04008",
-        "problemID": "DSA04008",
-        "problemStatus": "Complete",
-        "problemTopic": "Chia và trị",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "TÍCH HAI SỐ NHỊ PHÂN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA04011",
-        "problemID": "DSA04011",
-        "problemStatus": "Complete",
-        "problemTopic": "Chia và trị",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "SẮP XẾP KANGURU",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA04013",
-        "problemID": "DSA04013",
-        "problemStatus": "Complete",
-        "problemTopic": "Chia và trị",
         "problemDifficulty": "2"
     },
     {
@@ -936,33 +936,17 @@
         "problemDifficulty": "2"
     },
     {
-        "problemName": "KHOẢNG CÁCH NHỎ HƠN K",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA04023",
-        "problemID": "DSA04023",
-        "problemStatus": "Complete",
-        "problemTopic": "Chia và trị",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "DÃY CON CHUNG DÀI NHẤT CỦA BA XÂU",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05003",
-        "problemID": "DSA05003",
+        "problemName": "TỔNG LỚN NHẤT CỦA DÃY CON TĂNG DẦN",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05006",
+        "problemID": "DSA05006",
         "problemStatus": "Complete",
         "problemTopic": "Quy hoạch động",
         "problemDifficulty": "2"
     },
     {
-        "problemName": "CATALAN NUMBER",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05014",
-        "problemID": "DSA05014",
-        "problemStatus": "Complete",
-        "problemTopic": "Quy hoạch động",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "TÍNH P(N,K)",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05015",
-        "problemID": "DSA05015",
+        "problemName": "TỔNG LỚN NHẤT CỦA DÃY CON KHÔNG KỀ NHAU",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05007",
+        "problemID": "DSA05007",
         "problemStatus": "Complete",
         "problemTopic": "Quy hoạch động",
         "problemDifficulty": "2"
@@ -976,9 +960,9 @@
         "problemDifficulty": "2"
     },
     {
-        "problemName": "DÃY SỐ BI-TONIC",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05017",
-        "problemID": "DSA05017",
+        "problemName": "XÂU CON ĐỐI XỨNG DÀI NHẤT",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05018",
+        "problemID": "DSA05018",
         "problemStatus": "Complete",
         "problemTopic": "Quy hoạch động",
         "problemDifficulty": "2"
@@ -1000,67 +984,27 @@
         "problemDifficulty": "2"
     },
     {
-        "problemName": "KÝ TỰ GIỐNG NHAU",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05022",
-        "problemID": "DSA05022",
+        "problemName": "TỔNG CÁC XÂU CON",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05023",
+        "problemID": "DSA05023",
         "problemStatus": "Complete",
         "problemTopic": "Quy hoạch động",
         "problemDifficulty": "2"
     },
     {
-        "problemName": "BIẾN ĐỔI XÂU",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05028",
-        "problemID": "DSA05028",
+        "problemName": "TỔNG BÌNH PHƯƠNG",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05031",
+        "problemID": "DSA05031",
         "problemStatus": "Complete",
         "problemTopic": "Quy hoạch động",
         "problemDifficulty": "2"
     },
     {
-        "problemName": "CHỮ SỐ SẮP XẾP TĂNG DẦN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05035",
-        "problemID": "DSA05035",
+        "problemName": "SỐ THUẬN NGHỊCH",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05043",
+        "problemID": "DSA05043",
         "problemStatus": "Complete",
         "problemTopic": "Quy hoạch động",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "TĂNG - GIẢM",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05036",
-        "problemID": "DSA05036",
-        "problemStatus": "Complete",
-        "problemTopic": "Quy hoạch động",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "CHỮ SỐ SẮP XẾP TĂNG DẦN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05037",
-        "problemID": "DSA05037",
-        "problemStatus": "Complete",
-        "problemTopic": "Quy hoạch động",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "CHỌN Ô",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05047",
-        "problemID": "DSA05047",
-        "problemStatus": "Complete",
-        "problemTopic": "Quy hoạch động",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "BIẾN ĐỔI HẬU TỐ - TRUNG TỐ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07012",
-        "problemID": "DSA07012",
-        "problemStatus": "Complete",
-        "problemTopic": "Ngăn xếp",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "PHẦN TỬ BÊN PHẢI NHỎ HƠN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07017",
-        "problemID": "DSA07017",
-        "problemStatus": "Complete",
-        "problemTopic": "Ngăn xếp",
         "problemDifficulty": "2"
     },
     {
@@ -1072,131 +1016,11 @@
         "problemDifficulty": "2"
     },
     {
-        "problemName": "GIẢI MÃ XÂU KÝ TỰ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07029",
-        "problemID": "DSA07029",
-        "problemStatus": "Complete",
-        "problemTopic": "Ngăn xếp",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "BIỂU THỨC ĐÚNG DÀI NHẤT",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07041",
-        "problemID": "DSA07041",
-        "problemStatus": "Complete",
-        "problemTopic": "Ngăn xếp",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "GIÁ TRỊ NHỎ NHẤT CỦA XÂU",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08004",
-        "problemID": "DSA08004",
+        "problemName": "QUÂN MÃ",
+        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08025",
+        "problemID": "DSA08025",
         "problemStatus": "Complete",
         "problemTopic": "Hàng đợi",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "BIẾN ĐỔI S – T",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08009",
-        "problemID": "DSA08009",
-        "problemStatus": "Complete",
-        "problemTopic": "Hàng đợi",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "ĐẾM SỐ THÀNH PHẦN LIÊN THÔNG",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09008",
-        "problemID": "DSA09008",
-        "problemStatus": "Complete",
-        "problemTopic": "Duyệt đồ thị",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "SỐ LƯỢNG HÒN ĐẢO",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09011",
-        "problemID": "DSA09011",
-        "problemStatus": "Complete",
-        "problemTopic": "Duyệt đồ thị",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "LIỆT KÊ ĐỈNH TRỤ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09012",
-        "problemID": "DSA09012",
-        "problemStatus": "Complete",
-        "problemTopic": "Duyệt đồ thị",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "KIỂM TRA CHU TRÌNH TRÊN ĐỒ THỊ VÔ HƯỚNG",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09014",
-        "problemID": "DSA09014",
-        "problemStatus": "Complete",
-        "problemTopic": "Duyệt đồ thị",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "KIỂM TRA CHU TRÌNH TRÊN ĐỒ THỊ CÓ HƯỚNG",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09015",
-        "problemID": "DSA09015",
-        "problemStatus": "Complete",
-        "problemTopic": "Duyệt đồ thị",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "LIỆT KÊ ĐỈNH TRỤ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09018",
-        "problemID": "DSA09018",
-        "problemStatus": "Complete",
-        "problemTopic": "Đồ thị nâng cao",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "KIỂM TRA CHU TRÌNH",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09019",
-        "problemID": "DSA09019",
-        "problemStatus": "Complete",
-        "problemTopic": "Đồ thị nâng cao",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "ĐỒ THỊ HAI PHÍA",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09030",
-        "problemID": "DSA09030",
-        "problemStatus": "Complete",
-        "problemTopic": "Duyệt đồ thị",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "TÌM ĐƯỜNG",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA10001",
-        "problemID": "DSA10001",
-        "problemStatus": "Complete",
-        "problemTopic": "Đồ thị nâng cao",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "CÂY KHUNG CỦA ĐỒ THỊ THEO THUẬT TOÁN BFS",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA10007",
-        "problemID": "DSA10007",
-        "problemStatus": "Complete",
-        "problemTopic": "Đồ thị nâng cao",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "CÂY BIỂU THỨC 2",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA11002",
-        "problemID": "DSA11002",
-        "problemStatus": "Complete",
-        "problemTopic": "Cây nhị phân",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "DUYỆT CÂY 1",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA11003",
-        "problemID": "DSA11003",
-        "problemStatus": "Complete",
-        "problemTopic": "Cây nhị phân",
         "problemDifficulty": "2"
     },
     {
@@ -1208,227 +1032,11 @@
         "problemDifficulty": "2"
     },
     {
-        "problemName": "DUYỆT CÂY 2",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA11005",
-        "problemID": "DSA11005",
-        "problemStatus": "Complete",
-        "problemTopic": "Cây nhị phân",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "CHU TRÌNH THEO DFS",
-        "problemLink": "https://code.ptit.edu.vn/student/question/TN05009",
-        "problemID": "TN05009",
-        "problemStatus": "Complete",
-        "problemTopic": "Duyệt đồ thị",
-        "problemDifficulty": "2"
-    },
-    {
-        "problemName": "TẬP CON LIỀN KỀ PHÍA TRƯỚC",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA01018",
-        "problemID": "DSA01018",
-        "problemStatus": "Complete",
-        "problemTopic": "Sinh kế tiếp",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "LOẠI BỎ DẤU NGOẶC",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02015",
-        "problemID": "DSA02015",
-        "problemStatus": "Complete",
-        "problemTopic": "Quay lui - Nhánh cận",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "CHIA ĐỀU",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02028",
-        "problemID": "DSA02028",
-        "problemStatus": "Complete",
-        "problemTopic": "Quay lui - Nhánh cận",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "SỐ KHỐI LẬP PHƯƠNG",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03014",
-        "problemID": "DSA03014",
-        "problemStatus": "Complete",
-        "problemTopic": "Giải thuật tham lam",
-        "problemDifficulty": "3"
-    },
-    {
         "problemName": "ĐẾM SỐ BÍT 1",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA04006",
         "problemID": "DSA04006",
         "problemStatus": "Complete",
         "problemTopic": "Chia và trị",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "DÃY CON DÀI NHẤT CÓ TỔNG CHIA HẾT CHO K",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05010",
-        "problemID": "DSA05010",
-        "problemStatus": "Complete",
-        "problemTopic": "Quy hoạch động",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "SỐ CÓ TỔNG CHỮ SỐ BẰNG K",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05011",
-        "problemID": "DSA05011",
-        "problemStatus": "Complete",
-        "problemTopic": "Quy hoạch động",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "DI CHUYỂN VỀ GỐC TỌA ĐỘ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05030",
-        "problemID": "DSA05030",
-        "problemStatus": "Complete",
-        "problemTopic": "Quy hoạch động",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "XÂU ĐỐI XỨNG 2",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05033",
-        "problemID": "DSA05033",
-        "problemStatus": "Complete",
-        "problemTopic": "Quy hoạch động",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "LŨY THỪA BẬC K",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05046",
-        "problemID": "DSA05046",
-        "problemStatus": "Complete",
-        "problemTopic": "Quy hoạch động",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "BIỂU THỨC TƯƠNG ĐƯƠNG",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07005",
-        "problemID": "DSA07005",
-        "problemStatus": "Complete",
-        "problemTopic": "Ngăn xếp",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "BIẾN ĐỔI SỐ TỰ NHIÊN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08010",
-        "problemID": "DSA08010",
-        "problemStatus": "Complete",
-        "problemTopic": "Hàng đợi",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "BIẾN ĐỔI SỐ NGUYÊN TỐ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08020",
-        "problemID": "DSA08020",
-        "problemStatus": "Complete",
-        "problemTopic": "Hàng đợi",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "BỘI SỐ LỚN NHẤT CỦA 3",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08022",
-        "problemID": "DSA08022",
-        "problemStatus": "Complete",
-        "problemTopic": "Hàng đợi",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "CHÚ CỪU XA CÁCH",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09031",
-        "problemID": "DSA09031",
-        "problemStatus": "Complete",
-        "problemTopic": "Duyệt đồ thị",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "ĐẾM SỐ AO",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09034",
-        "problemID": "DSA09034",
-        "problemStatus": "Complete",
-        "problemTopic": "Duyệt đồ thị",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "HỌP MẶT",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA09037",
-        "problemID": "DSA09037",
-        "problemStatus": "Complete",
-        "problemTopic": "Duyệt đồ thị",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "DIJKSTRA",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA10008",
-        "problemID": "DSA10008",
-        "problemStatus": "Complete",
-        "problemTopic": "Đồ thị nâng cao",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "FLOYD",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA10009",
-        "problemID": "DSA10009",
-        "problemStatus": "Complete",
-        "problemTopic": "Đồ thị nâng cao",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "DI CHUYỂN TRÊN BẢNG SỐ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA10011",
-        "problemID": "DSA10011",
-        "problemStatus": "Complete",
-        "problemTopic": "Đồ thị nâng cao",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "ĐƯỜNG ĐI TRUNG BÌNH",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA10012",
-        "problemID": "DSA10012",
-        "problemStatus": "Complete",
-        "problemTopic": "Đồ thị nâng cao",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "KRUSKAL",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA10015",
-        "problemID": "DSA10015",
-        "problemStatus": "Complete",
-        "problemTopic": "Đồ thị nâng cao",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "CHU TRÌNH ÂM",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA10017",
-        "problemID": "DSA10017",
-        "problemStatus": "Complete",
-        "problemTopic": "Đồ thị nâng cao",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "DUYỆT CÂY KIỂU XOẮN ỐC",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA11006",
-        "problemID": "DSA11006",
-        "problemStatus": "Complete",
-        "problemTopic": "Cây nhị phân",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "TỔNG LỚN NHẤT",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA11015",
-        "problemID": "DSA11015",
-        "problemStatus": "Complete",
-        "problemTopic": "Cây nhị phân",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "KIỂM TRA CÂY NHỊ PHÂN TÌM KIẾM",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA11020",
-        "problemID": "DSA11020",
-        "problemStatus": "Complete",
-        "problemTopic": "Cây nhị phân",
         "problemDifficulty": "3"
     },
     {
@@ -1440,155 +1048,11 @@
         "problemDifficulty": "3"
     },
     {
-        "problemName": "CÂY NHỊ PHÂN TÌM KIẾM CÂN BẰNG 2",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA11025",
-        "problemID": "DSA11025",
-        "problemStatus": "Complete",
-        "problemTopic": "Cây nhị phân",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "DUYỆT SAU CÂY TÌM KIẾM CÂN BẰNG",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA11026",
-        "problemID": "DSA11026",
-        "problemStatus": "Complete",
-        "problemTopic": "Cây nhị phân",
-        "problemDifficulty": "3"
-    },
-    {
         "problemName": "ĐẾM SỐ NODE LÁ CÂY NHỊ PHÂN TÌM KIẾM CÂN BẰNG",
         "problemLink": "https://code.ptit.edu.vn/student/question/DSA11027",
         "problemID": "DSA11027",
         "problemStatus": "Complete",
         "problemTopic": "Cây nhị phân",
         "problemDifficulty": "3"
-    },
-    {
-        "problemName": "ĐỘ CAO CỦA CÂY",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA11028",
-        "problemID": "DSA11028",
-        "problemStatus": "Complete",
-        "problemTopic": "Cây nhị phân",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "ĐƯỜNG ĐI TỚI NODE LÁ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA11029",
-        "problemID": "DSA11029",
-        "problemStatus": "Complete",
-        "problemTopic": "Cây nhị phân",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "TRUY VẤN ĐỐI XỨNG",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSAKT060",
-        "problemID": "DSAKT060",
-        "problemStatus": "Complete",
-        "problemTopic": "Cây nhị phân",
-        "problemDifficulty": "3"
-    },
-    {
-        "problemName": "TỪ ĐIỂN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02014",
-        "problemID": "DSA02014",
-        "problemStatus": "Complete",
-        "problemTopic": "Quay lui - Nhánh cận",
-        "problemDifficulty": "4"
-    },
-    {
-        "problemName": "BIỂU THỨC TOÁN HỌC",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02018",
-        "problemID": "DSA02018",
-        "problemStatus": "Complete",
-        "problemTopic": "Quay lui - Nhánh cận",
-        "problemDifficulty": "4"
-    },
-    {
-        "problemName": "ĐƯỜNG ĐI DÀI NHẤT",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02019",
-        "problemID": "DSA02019",
-        "problemStatus": "Complete",
-        "problemTopic": "Quay lui - Nhánh cận",
-        "problemDifficulty": "4"
-    },
-    {
-        "problemName": "SỐ NHỎ NHẤT CÓ N ƯỚC SỐ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA02020",
-        "problemID": "DSA02020",
-        "problemStatus": "Complete",
-        "problemTopic": "Quay lui - Nhánh cận",
-        "problemDifficulty": "4"
-    },
-    {
-        "problemName": "BÀI TOÁN CÁI TÚI KHÔNG NGUYÊN",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA05045",
-        "problemID": "DSA05045",
-        "problemStatus": "Complete",
-        "problemTopic": "Quy hoạch động",
-        "problemDifficulty": "4"
-    },
-    {
-        "problemName": "PHẦN TỬ CÓ SỐ LẦN XUẤT HIỆN NHIỀU HƠN BÊN PHẢI",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07022",
-        "problemID": "DSA07022",
-        "problemStatus": "Complete",
-        "problemTopic": "Ngăn xếp",
-        "problemDifficulty": "4"
-    },
-    {
-        "problemName": "GÕ BÀN PHÍM",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA07045",
-        "problemID": "DSA07045",
-        "problemStatus": "Complete",
-        "problemTopic": "Ngăn xếp",
-        "problemDifficulty": "4"
-    },
-    {
-        "problemName": "KHOẢNG CÁCH XÂU KÝ TỰ",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08011",
-        "problemID": "DSA08011",
-        "problemStatus": "Complete",
-        "problemTopic": "Hàng đợi",
-        "problemDifficulty": "4"
-    },
-    {
-        "problemName": "HÀNG RÀO",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA08045",
-        "problemID": "DSA08045",
-        "problemStatus": "Complete",
-        "problemTopic": "Hàng đợi",
-        "problemDifficulty": "4"
-    },
-    {
-        "problemName": "NỐI ĐIỂM",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA10016",
-        "problemID": "DSA10016",
-        "problemStatus": "Complete",
-        "problemTopic": "Đồ thị nâng cao",
-        "problemDifficulty": "4"
-    },
-    {
-        "problemName": "ATM THẾ HỆ MỚI",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA03033",
-        "problemID": "DSA03033",
-        "problemStatus": "Complete",
-        "problemTopic": "Giải thuật tham lam",
-        "problemDifficulty": "5"
-    },
-    {
-        "problemName": "CẶP ĐIỂM GẦN NHẤT",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA04019",
-        "problemID": "DSA04019",
-        "problemStatus": "Complete",
-        "problemTopic": "Chia và trị",
-        "problemDifficulty": "5"
-    },
-    {
-        "problemName": "SỐ TRIBONACCI",
-        "problemLink": "https://code.ptit.edu.vn/student/question/DSA04030",
-        "problemID": "DSA04030",
-        "problemStatus": "Complete",
-        "problemTopic": "Chia và trị",
-        "problemDifficulty": "5"
     }
 ]
