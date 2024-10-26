@@ -1,1 +1,3 @@
-Đã full không che 362/362 bài trên code.ptit
+# Python_PTIT
+Source code Python on code.ptit.edu.vn
+> Thấy hay thì đừng quên để lại 1 sao và 1 follow nhé 😉
