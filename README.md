@@ -6,6 +6,8 @@
 
 Chi tiết config ib hỏi LTA :)))
 
+### Đã có bản 2.0 với docs đầy đủ, xem tại [https://github.com/n0xgg04/CODE_PTIT_SUBMIT_2.0](https://github.com/n0xgg04/CODE_PTIT_SUBMIT_2.0)
+
 ### Installation:
 
 - Install package
